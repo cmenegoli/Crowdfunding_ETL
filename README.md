@@ -33,5 +33,6 @@ Create the Contacts DataFrame
 ![campaign_table](Images/campaign_table.png)
 
 ### Contributors:
+
 Carolina Menegoli  
 Laura Lang
