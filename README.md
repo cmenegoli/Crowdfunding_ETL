@@ -13,26 +13,13 @@ Create the Campaign DataFrame
 Create the Contacts DataFrame
 
 ### 1. Create the Category DataFrame
-![DF_category](Images/df_category.png)
 
 ### 2. Create the Subcategory DataFrame
-![DF_subcategory](Images/df_subcategory.png)
 
 ### 3. Create the Campaign DataFrame 
-![DF_campaign](Images/df_campaign.jpg)
 
 ### 4. Create the Contacts DataFrame
-![DF_contacts](Images/df_contact.jpg)
 
 ### 5. Create ERD
-![ERD](Images/QuickDBD-export .png)
 
 ### 6. Create tables in pgAdmin and import csv files
-#### Category table
-![category](Images/category.png)
-#### Subcategory table
-![subcategory](Images/subcategory.png)
-#### Contacts table
-![contacts](Images/contact.png)
-#### Campaign table
-![campaign_table](Images/campaign.png)
