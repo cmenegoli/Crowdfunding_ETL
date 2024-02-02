@@ -34,6 +34,5 @@ Create the Contacts DataFrame
 
 ## Participants:
 Carolina Menegoli
---
 Laura Lang
 
