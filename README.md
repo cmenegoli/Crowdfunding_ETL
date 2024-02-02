@@ -30,9 +30,8 @@ Create the Contacts DataFrame
 #### Contacts table
 ![contacts](Images/contact_table.png)
 #### Campaign table
-![campaign_table](Images/campaign_table.png)
+![campaign_table](C:\Users\Carolina\OneDrive\Carolina\Crowdfunding_ETL\Images\campaign_table.png)
 
-### Contributors:
-
+#### Contributors:
 Carolina Menegoli  
 Laura Lang
