@@ -3,6 +3,7 @@ campaign
 cf_id INT PK
 contact_id INT FK >- contacts.contact_id
 company_name VARCHAR(30)
+
 description VARCHAR(50)
 goal INT
 pledged INT
