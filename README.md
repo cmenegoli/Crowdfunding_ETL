@@ -21,7 +21,7 @@ Create the Contacts DataFrame
 ### 4. Create the Contacts DataFrame
 ![DF_contacts](Images/df_contacts.png)
 ### 5. Create ERD
-![ERD](Images/ERD.png)
+![ERD](Images/ERD1.png)
 ### 6. Create tables in pgAdmin and import csv files
 #### Category table
 ![category](Images/category_table.png)
