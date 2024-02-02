@@ -32,3 +32,7 @@ Create the Contacts DataFrame
 #### Campaign table
 ![campaign_table](Images/campaign_table.png)
 
+##Participants:
+Carolina Menegoli
+Laura Lang
+
