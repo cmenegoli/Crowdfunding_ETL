@@ -20,8 +20,8 @@ Create the Contacts DataFrame
 ![DF_campaign](Images/df_campaign.png)
 ### 4. Create the Contacts DataFrame
 ![DF_contacts](Images/df_contacts.png)
-### 5. Create ERD
-### 6. Create tables for CAtegory, Subcategory, Contacts and Campaign in pgAdmin and import csv files
+### 5. Create an ERD
+### 6. Create tables for Category, Subcategory, Contacts and Campaign in pgAdmin and import csv files.
 
 #### Contributors:
 Carolina Menegoli  
